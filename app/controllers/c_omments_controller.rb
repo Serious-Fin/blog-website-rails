@@ -1,0 +1,2 @@
+class COmmentsController < ApplicationController
+end
